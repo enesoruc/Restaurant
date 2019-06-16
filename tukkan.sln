@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tukkan", "Tukkan\Tukkan.csproj", "{35A8190B-7D51-498B-B0EE-6A19215C891C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35A8190B-7D51-498B-B0EE-6A19215C891C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35A8190B-7D51-498B-B0EE-6A19215C891C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35A8190B-7D51-498B-B0EE-6A19215C891C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35A8190B-7D51-498B-B0EE-6A19215C891C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {013EE26C-A023-4DE8-9236-4411C74F27B9}
+	EndGlobalSection
+EndGlobal

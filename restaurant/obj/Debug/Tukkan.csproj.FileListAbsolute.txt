@@ -1,0 +1,10 @@
+C:\Users\Eness\source\repos\windows forms\20190308_Lecture_WinForms\Tukkan\bin\Debug\Tukkan.exe.config
+C:\Users\Eness\source\repos\windows forms\20190308_Lecture_WinForms\Tukkan\bin\Debug\Tukkan.exe
+C:\Users\Eness\source\repos\windows forms\20190308_Lecture_WinForms\Tukkan\bin\Debug\Tukkan.pdb
+C:\Users\Eness\source\repos\windows forms\20190308_Lecture_WinForms\Tukkan\obj\Debug\Tukkan.csprojAssemblyReference.cache
+C:\Users\Eness\source\repos\windows forms\20190308_Lecture_WinForms\Tukkan\obj\Debug\Tukkan.Form1.resources
+C:\Users\Eness\source\repos\windows forms\20190308_Lecture_WinForms\Tukkan\obj\Debug\Tukkan.Properties.Resources.resources
+C:\Users\Eness\source\repos\windows forms\20190308_Lecture_WinForms\Tukkan\obj\Debug\Tukkan.csproj.GenerateResource.cache
+C:\Users\Eness\source\repos\windows forms\20190308_Lecture_WinForms\Tukkan\obj\Debug\Tukkan.csproj.CoreCompileInputs.cache
+C:\Users\Eness\source\repos\windows forms\20190308_Lecture_WinForms\Tukkan\obj\Debug\Tukkan.exe
+C:\Users\Eness\source\repos\windows forms\20190308_Lecture_WinForms\Tukkan\obj\Debug\Tukkan.pdb
